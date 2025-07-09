@@ -19,11 +19,11 @@
 
 <pre>
 digit-classifier-numpy/
-├── train_model.py          # Training logic
-├── test_model.py           # Model evaluation
-├── download_mnist.py       # Downloads MNIST CSV
-├── weights/                # Saved weights (W1, b1, W2, b2)
-├── mnist_csv/              # CSV data files
+├── train_model.py          
+├── test_model.py           
+├── download_mnist.py
+├── weights/                
+├── mnist_csv/              
 └── README.md
 </pre>
 
@@ -58,7 +58,7 @@ digit-classifier-numpy/
   <tbody>
     <tr><td>NumPy</td><td>Matrix operations</td></tr>
     <tr><td>Pandas</td><td>CSV data handling</td></tr>
-    <tr><td>Matplotlib</td><td>Optional: plot predictions</td></tr>
+    <tr><td>Matplotlib</td><td>plot predictions</td></tr>
   </tbody>
 </table>
 
