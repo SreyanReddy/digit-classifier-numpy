@@ -1,0 +1,5 @@
+weights/
+mnist_csv/
+__pycache__/
+*.pyc
+.vscode/
