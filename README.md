@@ -34,7 +34,7 @@ digit-classifier-numpy/
 <h4>Manual Download from Kaggle</h4>
 
 <ul>
-  <li><a href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">mnist_csv.csv</a></li>
+  <li><a href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">mnist_csv</a></li>
 </ul>
 
 <p>Place them in a folder called <code>mnist_csv/</code>.</p>
