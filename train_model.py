@@ -89,6 +89,8 @@ def gradient_descent(X, Y, alpha, epochs):
             print("Accuracy ", get_accuracy(get_predictions(A2), Y) * 100, "%")
     return W1, b1, W2, b2
 
+os.makedirs("weights", exist_ok = True)
+
 def train_and_save():
     W1, b1, W2, b2 = gradient_descent(X_train, Y_train, 0.1, 500)
     np.save("weights/W1.npy", W1)
